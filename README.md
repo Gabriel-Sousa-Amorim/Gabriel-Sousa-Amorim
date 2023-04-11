@@ -11,7 +11,7 @@
 
 <p align="center">
 <img width="450px" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabriel-sousa-amorim&show_icons=true&theme=dark&title_color=11ff00&text_color=ffffff&bg_color=190019&hide_border=true&locale=en&layout=compact" alt="gabriel-sousa-amorim" />
-<img width="480px" src="https://github-readme-stats.vercel.app/api?username=gabriel-sousa-amorim&show_icons=true&theme=dark&title_color=00eeff&text_color=e3e3e3&bg_color=190019&hide_border=true&cache_seconds=1800&locale=en" alt="gabriel-sousa-amorim" />
+<img width="490px" src="https://github-readme-stats.vercel.app/api?username=gabriel-sousa-amorim&show_icons=true&theme=dark&title_color=00eeff&text_color=e3e3e3&bg_color=190019&hide_border=true&cache_seconds=1800&locale=en" alt="gabriel-sousa-amorim" />
 </p>
 
 ### Connect with me
