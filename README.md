@@ -1,7 +1,7 @@
 <h1 align="center"> Hello World, I'm <a href="https://www.linkedin.com/in/gabriel-sousa-a-rodrigues">Gabriel Sousa</a> <p align="center"><img src="https://komarev.com/ghpvc/?username=gabriel-sousa-amorim&label=Profile%20views&color=ffa3eb&style=flat-square" alt="gabriel-sousa-amorim" /> </p></h1>
 
 ### About me
- -  🧠18 years old.
+ - 🧠18 years old.
  - 🌃 São Paulo, Brazil.
  - 📚 Learning **HTML, CSS, Javascript, GIT, React and Python.**
  
