@@ -22,7 +22,7 @@
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gabriel-sousa-a-rodrigues/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21165913" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21165913" height="30" width="40" /></a>
 <a href="https://www.sololearn.com/profile/28312977" target="_blank">
-<img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="sololearn" height="55" width="55" /></a>
+<img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="sololearn" height="35" width="35" /></a>
 </p>
 
 <h1>Trophys</h1>
