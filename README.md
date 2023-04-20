@@ -28,4 +28,7 @@
 <h1>Trophys</h1>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriel-sousa-amorim" alt="gabriel-sousa-amorim" /></a> </p>
 
+<img href="https://www.sololearn.com/certificates/CT-64VOE4MR">
+
+
 [//]: <> (Credits to Anuraghazra https://github.com/anuraghazra/github-readme-stats.)
