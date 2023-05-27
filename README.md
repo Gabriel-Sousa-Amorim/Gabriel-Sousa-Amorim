@@ -5,7 +5,7 @@
 ### About me
  - 🧠18 years old.
  - 🌃 São Paulo, Brazil.
- - 📚 Learning **HTML, CSS, Javascript, GIT, React and Python.**
+ - 📚 Learning **Javascript, React and Python.**
  
 ### Languages and Tools:
 <nav> 
